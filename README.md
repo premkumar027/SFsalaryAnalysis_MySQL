@@ -1,6 +1,8 @@
 # SFsalaryMySQL_Analysis
 An analysis of San Francisco salary data using MySQL queries.
 
+## Instructions
+
 Each query is explained with a brief description. To execute these queries, follow these steps:
 
 1. Make sure you have a MySQL server installed and the 'data_new' database set up.
